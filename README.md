@@ -1,0 +1,2 @@
+# AWS-MySQL-High-Availability-GTID-Replication-Monitoring
+A production-style MySQL High Availability and Monitoring project on AWS EC2, built without Docker.  The project implements a 2-node MySQL Source/Replica architecture using GTID-based replication, custom Bash automation for health monitoring and failover/recovery, and a complete observability stack using Prometheus, Grafana, Loki, and Nagios/NRPE.
